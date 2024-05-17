@@ -1,0 +1,48 @@
+body
+{
+    background-color: #2e3a4d;
+    color:white;
+}
+
+.Textbox
+{
+    background-color: #f2e6cb;
+    color: #000;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.nav-item
+{
+    background-color: #e6d0a3;
+    padding-bottom: 0px; 
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.active
+{
+    background-color: #f2e6cb;
+    margin-bottom: 0px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.navbar
+{
+    background-color: #cfae67;
+    padding-bottom: 0px; 
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+
+.file
+{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    height: 200px;
+}
